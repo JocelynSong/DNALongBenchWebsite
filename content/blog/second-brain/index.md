@@ -13,5 +13,3 @@ image:
 Welcome 👋
 
 ## LeaderBoader
-
-{{< table path="results.csv" header="true">}}
