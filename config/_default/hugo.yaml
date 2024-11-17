@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: "A Benchmark Suite for Long-Range DNA Prediction Tasks" # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://dnalongbench.com/' # Website URL
 
 ############################
 ## PAGE OPTIONS
