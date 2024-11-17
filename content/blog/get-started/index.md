@@ -1,6 +1,6 @@
 ---
-title: 🎉 Enhancer-Target Gene Prediction
-summary: Results for ETGP! Current SOTA model is expert model!
+title: 🎉 Enhancer-Target Gene Prediction LeaderBoard
+summary: Current SOTA model is expert model!
 date: 2024-11-17
 
 # Featured image
