@@ -20,4 +20,4 @@ Welcome 👋
 
 ## LeaderBoader
 
-{{< table path="results.csv" header="true" caption="ETGP" >}}
+{{< table path="results.csv" header="true">}}
