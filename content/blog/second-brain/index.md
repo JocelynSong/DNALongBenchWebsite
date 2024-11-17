@@ -1,11 +1,11 @@
 ---
-title: 🎉 Enhancer-Target Gene Prediction LeaderBoard
-summary: Current SOTA model is expert model!
-date: 2024-11-7
+title: 🧠 Sharpen your thinking with a second brain
+summary: Create a personal knowledge base and share your knowledge with your peers.
+date: 2023-10-26
 authors:
   - admin
 tags:
-  - Contact Map Prediction
+  - Second Brain
   - Markdown
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
