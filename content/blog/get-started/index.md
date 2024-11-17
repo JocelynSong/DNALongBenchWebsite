@@ -19,3 +19,5 @@ tags:
 Welcome 👋
 
 ## LeaderBoader
+
+{{< table path="results.csv" header="true" caption="ETGP" >}}
