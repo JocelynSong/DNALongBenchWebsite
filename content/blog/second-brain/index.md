@@ -1,11 +1,12 @@
 ---
-title: 🎉 Contact Map Prediction LeaderBoard
+title: 🎉 Enhancer-Target Gene Prediction LeaderBoard
 summary: Current SOTA model is expert model!
 date: 2024-11-7
 authors:
   - admin
 tags:
   - Contact Map Prediction
+  - Markdown
 image:
   caption: 'CMP'
 ---
@@ -13,3 +14,5 @@ image:
 Welcome 👋
 
 ## LeaderBoader
+
+{{< table path="results.csv" header="true">}}
