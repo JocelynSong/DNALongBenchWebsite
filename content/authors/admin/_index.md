@@ -10,8 +10,8 @@ first_name: DNALongBench Team
 last_name: DNALongBench Team
 
 # Status emoji
-status:
-  icon: 🧬
+# status:
+#   icon: 
 
 # Is this the primary user of the site?
 superuser: true
