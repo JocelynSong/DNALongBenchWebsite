@@ -12,8 +12,7 @@ authors:
   - admin
 
 tags:
-  - ETGP
-  - Markdown
+  - Enhancer-Target Gene Prediction
 ---
 
 Welcome 👋
