@@ -1,4 +1,6 @@
-customer_id, score
-1,0
-2,0.5
-3,1
+Models, Human,Mouse,Average
+Expert Model,0.669,0.479,0.574
+CNN,0.583,0.323,0.431
+HyenaDNA,0.298,9.396,0.347
+Caduceus-Ph,0.301,0.400,0.349
+Caduceus-PS,0.301,0.387,0.344
