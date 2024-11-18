@@ -1,14 +1,13 @@
 ---
-title: ✅ Manage your projects
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2023-10-23
+title: 🎉 Transcription Initiation Signal Prediction LeaderBoard
+summary: Current SOTA model is expert model!
+date: 2024-11-17
 authors:
   - admin
 tags:
-  - Hugo Blox
-  - Markdown
+  - Transcription Initiation Signal Prediction
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'TISP'
 ---
 
 Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
